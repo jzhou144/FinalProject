@@ -1,0 +1,93 @@
+Website Plan
+
+1. Planned pages (Site map draft)
+Title: Homepage
+Filename: index.html
+
+Title: Using the code editor
+Filename: code-editor.html
+
+Title: HTML-semantic structure
+Filename: semantic-html.html
+
+Title: CSS-Layout and responsive design
+Filename: css-layout.html
+
+Title: Accessibility
+Filename: accessibility.html
+
+Title: Ethics in web-development
+Filename: ethics.html
+
+Title: Validation in HTML and CSS-code
+Filename: validation.html
+
+Title: Generative AI
+Filename: ai.html
+
+Home
+This will describe the website and introduce that there will be a set of exercises, covering all muscles groups. A brief summary of what has been learned in the course will be included.
+
+Code Editor
+This section will describe and explain how a code editor is being used, based on Week 1. The how it has helped in developing assignments, web pages etc. Will be mentioned.
+
+HTML
+This page will introduce semantic structure of HTML, based on Week 2. It will explain how the webpages have been developed and constructed.
+
+CSS
+This page will explain elements learned during Weeks 3-5 and 10 concerning the presentation, layout (flexbox/grid) and styling of the websites, making it "good looking".
+
+Accessibility
+This page will describe elements concerning accessibility, based on Week 7 and Project 3. How the website should be made more accessible to the wide masses will be briefly discussed.
+
+Ethics
+This page will be about using media and content responsible in connection with what was discussed in Week 6 concerning ethical web-development. The use of images and suchlike will be considered.
+
+Validation
+This page will explain and describe the usage of validation services for HTML and CSS-code which was presented during later projects. It will emphasize the benefit of writing error-free code.
+
+AI
+This page will briefly mention how generative AI has been useful during the final project. It can also contain useful links or tips.
+
+3. Planned Media and Assets
+Images: screenshots from assignments, exercises photos
+Icons: icons for individual pages
+Videos (Optional): demonstration videos for exercises
+Tables or Lists: list of courses and/or muscles exercises
+Forms: a simple contact form (from Week 8)
+
+4. Navigation plan
+The navigation would consists of:
+Labels:
+Home, Code Editor, HTML, CSS, Accessibility, Ethics, Validation, AI
+Footer:
+A link to the GitHub repository and possibly a 'scroll to top' link.
+
+5. Accessibility Considerations
+What images are you going to need alt text?
+All of the images used. The description would have to relate to the image's function on the webpage.
+How will you structure your headings?
+H1 for the title of the page. H2 for main section headings and H3 for subsections if any.
+Will you use color combinations that meet contrast guidelines?
+Yes.
+
+6. File and Folder Plan
+/FinalProject
+ index.html
+/pages
+ code-editor.html
+ semantic-html.html
+ css-layout.html
+ accessibility.html
+ ethics.html
+ validation.html
+ ai.html
+/css
+ style.css
+/img
+ ExercisePhoto.jpg
+ AssignmentScreenshot.png
+/js (Optional)
+
+7. Code Validation
+HTML and CSS validators will be used to ensure all code adheres to valid standards.
