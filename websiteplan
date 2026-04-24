@@ -25,30 +25,29 @@ Filename: validation.html
 Title: Generative AI
 Filename: ai.html
 
-Home
-This will describe the website and introduce that there will be a set of exercises, covering all muscles groups. A brief summary of what has been learned in the course will be included.
+ Homepage (index.html)
+This page will introduce the website, which focuses on exercises for different muscle groups. It will include a brief overview of major muscle groups (chest, back, legs, arms, shoulders, core) and guide users to pages explaining both fitness content and web development concepts.
 
-Code Editor
-This section will describe and explain how a code editor is being used, based on Week 1. The how it has helped in developing assignments, web pages etc. Will be mentioned.
+Using the Code Editor (code-editor.html)
+This page will explain the code editor used during the course and how it helped build the fitness website. It will include examples such as writing exercise descriptions and organizing workout content efficiently.
 
-HTML
-This page will introduce semantic structure of HTML, based on Week 2. It will explain how the webpages have been developed and constructed.
+HTML – Semantic Elements (semantic-html.html)
+This page will explain semantic HTML elements using examples from the exercise website. It will show how sections like muscle groups and workouts are structured using tags like header, section, and article.
 
-CSS
-This page will explain elements learned during Weeks 3-5 and 10 concerning the presentation, layout (flexbox/grid) and styling of the websites, making it "good looking".
+CSS – Layout and Responsive Design (css-layout.html)
+This page will describe how CSS is used to create a clean layout for displaying exercises by muscle group. It will also explain how responsive design ensures the workout content looks good on phones, tablets, and desktops.
 
-Accessibility
-This page will describe elements concerning accessibility, based on Week 7 and Project 3. How the website should be made more accessible to the wide masses will be briefly discussed.
+Accessibility (accessibility.html)
+This page will explain how the exercise website is made accessible to all users. It will include examples like alt text for exercise images, readable fonts, and clear navigation for users with disabilities.
 
-Ethics
-This page will be about using media and content responsible in connection with what was discussed in Week 6 concerning ethical web-development. The use of images and suchlike will be considered.
+Ethical Issues in Web Development (ethics.html)
+This page will discuss ethical concerns related to fitness websites, such as providing accurate exercise information and avoiding misleading health advice. It will also cover privacy and responsible content creation.
 
-Validation
-This page will explain and describe the usage of validation services for HTML and CSS-code which was presented during later projects. It will emphasize the benefit of writing error-free code.
+Validation for HTML and CSS Code (validation.html)
+This page will explain how the code for the exercise website is validated. It will include examples of fixing errors and ensuring the site works properly across browsers.
 
-AI
-This page will briefly mention how generative AI has been useful during the final project. It can also contain useful links or tips.
-
+Using Generative Artificial Intelligence (ai.html)
+This page will describe how AI tools were used to help generate exercise ideas, explanations, and website content. It will also explain the importance of verifying AI-generated fitness information.
 3. Planned Media and Assets
 Images: screenshots from assignments, exercises photos
 Icons: icons for individual pages
