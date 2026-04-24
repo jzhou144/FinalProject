@@ -1,0 +1,60 @@
+Website Plan
+1. Planned Pages (Site Map Draft)
+Title: Homepage — Filename: index.html
+Title: Using the Code Editor — Filename: code-editor.html
+Title: HTML - Semantic Elements — Filename: semantic-html.html
+Title: CSS - Layout and Responsive Design — Filename: css-layout.html
+Title: Accessibility — Filename: accessibility.html
+Title: Ethical Issues in Web Development — Filename: ethics.html
+Title: Validation for HTML and CSS Code — Filename: validation.html
+Title: Using Generative Artificial Intelligence — Filename: ai.html
+Home
+This page introduces the website and explains that it shows exercises for different muscle groups. It also includes a quick summary of what was learned throughout the course.
+
+Code Editor
+This page talks about installing and using a code editor from Week 1. It explains how it was used to complete assignments and build webpages.
+
+HTML
+This page explains basic HTML and semantic structure learned in Week 2. It includes how webpages were created and organized.
+
+CSS
+This page covers CSS topics from Weeks 3–5 and 10. It explains styling, layout (Flexbox/Grid), and making websites look better.
+
+Accessibility
+This page explains accessibility from Week 7 and Project 3. It includes making websites usable for everyone.
+
+Ethics
+This page connects to Week 6 discussions about ethical use of media. It explains using images and content responsibly.
+
+Validation
+This page explains checking HTML and CSS code for errors from later projects. It shows why clean code is important.
+
+AI
+This page explains how AI tools were used during the final project. It includes using AI for ideas and learning support.
+
+3. Planned Media & Assets
+Images: exercise examples, screenshots from assignments
+Icons: simple icons for sections
+Videos (optional): exercise demos
+Tables or Lists: course topics or exercise lists
+Forms: contact form (from Week 8)
+4. Navigation Plan
+Navigation menu labels:
+Home, Code Editor, HTML, CSS, Accessibility, Ethics, Validation, AI
+Footer links (optional):
+GitHub link, back to top
+5. Accessibility Considerations
+What images will need alt text?
+All images and screenshots.
+How will you structure your headings?
+H1 for title, H2 for sections, H3 for details.
+Will you use color combinations that meet contrast guidelines?
+☑ Yes
+6. File and Folder Plan
+/FinalProject
+  index.html
+  /pages
+  /css
+  /img
+7. Code Validation
+I will use HTML and CSS validators to check my code and fix any errors.
