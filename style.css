@@ -6,7 +6,7 @@
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: #1a1026; /* deep purple */
+  background: #1a1026; 
   color: #f1f5f9;
 }
 
@@ -37,7 +37,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #2dd4bf; /* teal accent */
+  color: #2dd4bf;
 }
 
 /* CONTENT */
@@ -137,7 +137,7 @@ footer {
   background: #020617;
 }
 
-/* center both links */
+
 .footer-links {
   display: flex;
   flex-direction: column;
@@ -167,7 +167,7 @@ footer {
   width: 100%;
   max-width: 900px;
   margin: 20px auto;
-  padding-bottom: 56.25%; /* 16:9 ratio */
+  padding-bottom: 56.25%; 
   height: 0;
 }
 
@@ -209,7 +209,7 @@ footer {
 .hero nav ul {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap; /* allows wrapping instead of overflow */
+  flex-wrap: wrap; 
   gap: 8px;
   list-style: none;
   padding: 0;
@@ -220,7 +220,7 @@ footer {
 .hero nav a {
   color: #e9d5ff;
   text-decoration: none;
-  font-size: 0.85rem; /* smaller so it fits */
+  font-size: 0.85rem; /
   padding: 4px 6px;
 }
 
